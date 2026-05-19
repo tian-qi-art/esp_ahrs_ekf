@@ -1,9 +1,0 @@
-dependencies:
-  idf: '>=4.0'
-description: expanded Kalman filter for MPU6050 6-axis gyroscope and accelerometer
-repository: https://github.com/tian-qi-art/esp_ahrs_ekf.git   
-repository_info:
-  commit_sha: 12b64d42a29e41fe0fe2d329c7904936b9769817
-  path: kalman
-url: https://github.com/tian-qi-art/esp_ahrs_ekf
-version: 1.2.1
